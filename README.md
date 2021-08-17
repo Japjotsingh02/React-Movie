@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [job-listings-filter](https://react-movie-rmdb.netlify.app/)
+- Website - [React-rmdb](https://react-movie-rmdb.netlify.app/)
