@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/solutions/job-listings-with-filters-Q2yDs_r_B)
-- Live Site URL: [React-rmdb](https://job-listings-filter.netlify.app/)
+- Solution URL: [solution](https://github.com/Japjotsingh02/React-Movie)
+- Live Site URL: [React-rmdb](https://react-movie-rmdb.netlify.app/)
 
 ## My process
 
@@ -40,5 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [job-listings-filter](https://job-listings-filter.netlify.app/)
-- Frontend Mentor - [Japjot Singh](https://www.frontendmentor.io/profile/Japjotsingh02)
+- Website - [job-listings-filter](https://react-movie-rmdb.netlify.app/)
