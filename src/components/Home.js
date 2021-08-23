@@ -61,7 +61,7 @@ const Home = () => {
                         IMAGE_BASE_URL + POSTER_SIZE + result.poster_path
                         // {`${IMAGE_BASE_URL}${POSTER_SIZE}${result.poster_path}`}
                         : NoImage
-                    } 
+                    }
                     movieId={result.id}
                     >
                     </Thumb>
