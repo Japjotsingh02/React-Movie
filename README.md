@@ -44,4 +44,4 @@ Users should be able to:
 ## Author
 
 - Website - [React-rmdb](https://react-movie-rmdb.netlify.app/)
-- Linkedin - [linkedin] (https://www.linkedin.com/in/japjot-singh-9a7b541a8/)
+- Linkedin - [linkedin](https://www.linkedin.com/in/japjot-singh-9a7b541a8/)
