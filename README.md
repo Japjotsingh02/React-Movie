@@ -1,6 +1,6 @@
 # React RMDB
 
-This is my first react project. Currently, I am working on this project. This is not completely completed. You can search any movie and get the details of that movie.
+This is my first react project. You can search any movie and get the details of that movie.You can load more movies on the home page. Reload the page to see session storage in movie list and individual movie.
 
 ## Table of contents
 
@@ -18,9 +18,10 @@ This is my first react project. Currently, I am working on this project. This is
 
 Users should be able to:
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Search Movies and get their details
+- View the optimal layout for the site depending on their device's screen size.
+- See hover states for all interactive elements on the page.
+- Search Movies and get their details.
+- Reload the page to see session storage on movie lists and individual movie also.
 
 ### Links
 
@@ -32,12 +33,14 @@ Users should be able to:
 ### Built with
 
 - React Hooks
-- Semantic HTML5 markup
+- JSX
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Session Storage to store the data in the session 
 
 ## Author
 
 - Website - [React-rmdb](https://react-movie-rmdb.netlify.app/)
+- Linkedin - [linkedin] (https://www.linkedin.com/in/japjot-singh-9a7b541a8/)
