@@ -34,6 +34,7 @@ Users should be able to:
 
 - React Hooks
 - JSX
+- Functonal or Stateless Components
 - CSS custom properties
 - Flexbox
 - CSS Grid
