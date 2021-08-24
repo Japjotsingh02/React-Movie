@@ -40,6 +40,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Session Storage to store the data in the session 
+- TMDB Api
 
 ## Author
 
