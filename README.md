@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Japjotsingh02/React-Movie)
-- Live Site URL: [React-rmdb](https://react-movie-rmdb.netlify.app/)
+- Live Site URL: [React-rmdb](https://react-rmdb-movie.netlify.app/)
 
 ## My process
 
@@ -40,8 +40,9 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Session Storage to store the data in the session 
+- TMDB Api
 
 ## Author
 
-- Website - [React-rmdb](https://react-movie-rmdb.netlify.app/)
+- Website - [React-rmdb](https://react-rmdb-movie.netlify.app/)
 - Linkedin - [linkedin](https://www.linkedin.com/in/japjot-singh-9a7b541a8/)
